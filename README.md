@@ -1,4 +1,4 @@
 # DAA
-Repository for Design & Analysis of Algorithms Lab
+Repository for Design & Analysis of Algorithms
 <br>
 Author - Rishika Agarwal
